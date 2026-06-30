@@ -1,6 +1,6 @@
-# Forensic Body Fluid Fluorescence Visualization  
+# Forensic-BodyFluid-DimRed 
 
-This repository provides R scripts for the dimensionality reduction and visualization of capillary electrophoresis (CE) fluorescence data. It is specifically designed for forensic body fluid identification, supporting the analysis of peripheral blood (PB), saliva (SA), semen (SE), vaginal fluid (VF), and menstrual blood (MB).
+This repository provides R scripts for the dimensionality reduction and visualization of capillary electrophoresis (CE) fluorescence data. It is specifically designed for forensic body fluid identification, supporting the analysis of peripheral blood (PB), saliva (SA), semen (SE), vaginal secretion (VS), and menstrual blood (MB).
 ## 📊 Usage
 
 1. Clone this repository to your local machine.
